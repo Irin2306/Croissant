@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.link {
+  text-decoration: none;
+  color: green;
+}
